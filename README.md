@@ -1,4 +1,9 @@
-# Exercicio0-Aula-02
+# LADSOFT - Intensivo Nassau Rush
+- Programação em Java. 
+- Ministrado pelo Paulo Lima.
+- GitHub: prmlimajr.
 
-    Faça um programa que solicite que o usuário insira dois números e exiba a soma,
+## Exercicio1-Aula-02
+
+    ##### Faça um programa que solicite que o usuário insira dois números e exiba a soma,
     subtração, divisão e multiplicação entre os números;
